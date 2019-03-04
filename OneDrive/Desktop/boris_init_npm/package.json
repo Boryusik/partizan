@@ -1,0 +1,22 @@
+{
+  "name": "boris_init_npm",
+  "version": "1.0.0",
+  "description": "upload initial test code",
+  "main": "demo1.js",
+  "scripts": {
+    "test": "node demo1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boryusik/partizan.git"
+  },
+  "keywords": [
+    "268135178dazy"
+  ],
+  "author": "boris <borshap@gmail.com> (http://Guru99.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boryusik/partizan/issues"
+  },
+  "homepage": "https://github.com/Boryusik/partizan#readme"
+}

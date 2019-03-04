@@ -1,18 +1,15 @@
 {
   "name": "boris_init_npm",
   "version": "1.0.0",
-  "description": "upload initial test code",
+  "description": "proverka github uploading",
   "main": "demo1.js",
   "scripts": {
-    "test": "node demo1.js"
+    "test": "node dmo1.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Boryusik/partizan.git"
   },
-  "keywords": [
-    "268135178dazy"
-  ],
   "author": "boris <borshap@gmail.com> (http://Guru99.com)",
   "license": "ISC",
   "bugs": {
